@@ -1,4 +1,4 @@
-# PySpark Examples
+# PySpark Notebooks
 This repository contains a collection of Jupyter Notebooks demonstrating how to use Apache Spark with Python (PySpark). The examples cover a variety of topics including creating Spark contexts and sessions, performing operations with RDDs, DataFrames, and SQL, and reading from various data sources.
 
 ## Requirements
